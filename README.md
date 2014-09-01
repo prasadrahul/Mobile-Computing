@@ -1,4 +1,4 @@
 smart_contact
 =============
 
-i am beginner wana explore with my basic application
+exploring Android with my basic application
