@@ -1,4 +1,4 @@
 smart_contact
 =============
 
-exploring Android with my basic application
+Exploring Android with my basic application
